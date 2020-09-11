@@ -6,7 +6,7 @@ cd into Sudoku-solver repo through terminal :
 1. g++ SUDOKU.cpp -o executable
 2. ./executable
 
-Sample Input : (enter rows space seperated)
+Sample Input : (enter rows space seperated)  <br/>
 1 0 0 0 0 7 0 9 0 <br/>
 0 3 0 0 2 0 0 0 8 <br/>
 0 0 9 6 0 0 5 0 0 <br/>
@@ -16,8 +16,8 @@ Sample Input : (enter rows space seperated)
 3 0 0 0 0 0 0 1 0 <br/>
 0 4 0 0 0 0 0 0 7 <br/>
 0 0 7 0 0 0 3 0 0 <br/>
-and 
-SAMPLE OUTPUT :
+and  <br/>
+SAMPLE OUTPUT : <br/>
 1,6,2,8,5,7,4,9,3, <br/>
 5,3,4,1,2,9,6,7,8, <br/>
 7,8,9,6,4,3,5,2,1, <br/>
